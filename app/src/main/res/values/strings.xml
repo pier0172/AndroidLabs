@@ -12,6 +12,13 @@
     <string name="enableSomething">Enable Something</string>
     <string name="radioButton">RadioButton</string>
     <string name="wrap_content">Wrap Content</string>
+    <string name="login_button">Login</string>
+
+    <string name="dialog_message">Do you want to terminate the activity?</string>
+    <string name="dialog_title">Finish</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
     <!--<string name="title_content_login">Login</string>-->
     <!--<string name="enable_Something">Enable Something</string>-->
 </resources>

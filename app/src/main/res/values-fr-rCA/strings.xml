@@ -4,7 +4,7 @@
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">I\’m a button</string>
 
-    <string name="login">Identifier</string>
+    <string name="login">Connextion</string>
     <string name="password">Mot de Pass</string>
     <string name="loginName">Nom de l\'indificateur</string>
 
@@ -12,5 +12,12 @@
     <string name="enableSomething">Activer quelque chose</string>
     <string name="radioButton">Buton radio</string>
     <string name="wrap_content">Contenu wrap</string>
+
+    <string name="dialog_message">Voulez-vous terminer l\'activite?</string>
+    <string name="dialog_title">Terminer</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+
+
 
 </resources>
