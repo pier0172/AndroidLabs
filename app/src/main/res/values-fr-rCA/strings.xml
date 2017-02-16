@@ -18,6 +18,8 @@
     <string name="ok">OK</string>
     <string name="cancel">Annuler</string>
 
+    <string name="startChat">Démarrer la discussion</string>
+
 
 
 </resources>

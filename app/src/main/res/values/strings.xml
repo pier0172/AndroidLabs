@@ -19,6 +19,8 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
 
+    <string name="startChat">Start Chat</string>
+
     <!--<string name="title_content_login">Login</string>-->
     <!--<string name="enable_Something">Enable Something</string>-->
 </resources>
